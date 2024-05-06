@@ -25,4 +25,4 @@ The "Destination Dynamics" project utilizes a comprehensive dataset provided by 
 ### Visual Insights
 Below are some visualizations derived from our dataset, showcasing patterns and insights:
 ![Visitor Trends](link_to_visitor_trends_visualization)
-![Demographic Insights](link_to_demographic_insights_visualization)
+![Demographic Insights](images/age demographics.png)
