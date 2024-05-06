@@ -33,8 +33,11 @@ Below are some visualizations derived from our dataset, showcasing patterns and 
 ![Predictions](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/predictedvsactual.png?raw=true)
 
 The graph above illustrates the comparison between actual and predicted visitor numbers for the Taj Mahal at 8 AM.
-🚀 **Take a Look Ahead**: Check out our latest forecast for the next 10 days in the 8 AM time slot at Taj Mahal.
+
+🚀 **Take a Look Ahead**: Check out our latest forecast for the next 10 days in the 8 AM time slot at Taj Mahal:
+
 ![Visitor Trends](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/forecast.png?raw=true)
 
 🔍 **Age Trends Unfolded**: Delve into the dynamic age profiles across prominent tourist destinations throughout the day. This chart reveals how the average age of visitors varies at different times, providing insights that help us customize experiences for diverse age groups.
+
 ![Demographic Insights](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/age%20demographics.png?raw=true)
