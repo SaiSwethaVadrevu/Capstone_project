@@ -17,6 +17,12 @@ The "Destination Dynamics" project utilizes a comprehensive dataset provided by 
   - Taj Mahal
   - Doge's Palace
   - Louvre Museum
+### Data Structure
+Each record in the dataset includes the following fields:
+- `Date`: The date of observation (YYYY-MM-DD).
+- `Time`: The specific time of the observation on a 24-hour clock.
+- `Visitors in [Location]`: Numeric count of visitors at specified locations.
+- `Average Age - [Location]`: Average age of visitors, providing demographic insights.
 ## ✨ Key Features of our project
 - **Predictive Powerhouse**: Harness the foresight of ARIMA, deep learning models such as LSTM, GRU and ensemble techniques to anticipate visitor trends, making over-crowded surprises a thing of the past.
 - **Demographic Insights**: Utilize our sophisticated models to predict the average age of tourists, enabling tailored marketing strategies and enhanced visitor experiences by aligning services with demographic preferences.
