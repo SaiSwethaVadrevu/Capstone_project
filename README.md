@@ -1,4 +1,4 @@
-                                                       # Destination Dynamics: Solution for Sustainable Tourism 
+# Destination Dynamics: Solution for Sustainable Tourism 
 
 ![Project Header](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/banner.jpg?raw=true))
 
