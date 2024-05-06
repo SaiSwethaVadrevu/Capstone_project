@@ -24,5 +24,5 @@ The "Destination Dynamics" project utilizes a comprehensive dataset provided by 
 
 ### Visual Insights
 Below are some visualizations derived from our dataset, showcasing patterns and insights:
-![Visitor Trends](link_to_visitor_trends_visualization)
+![Visitor Trends](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/forecast.png?raw=true)
 ![Demographic Insights](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/age%20demographics.png?raw=true)
