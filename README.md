@@ -1,6 +1,6 @@
 #  Destination Dynamics: Solution for Sustainable Tourism 
 
-![Project Header](https://pro.regiondo.com/wp-content/uploads/2019/12/Blog_image_Tourism_trends2.jpg)
+![Project Header](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/banner.jpg?raw=true))
 
 ## Team Members
 - Karan Talati
