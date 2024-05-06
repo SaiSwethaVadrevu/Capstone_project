@@ -1,1 +1,1 @@
-# 🌍 Destination Dynamics: Solution for Sustainable Tourism
+# Destination Dynamics: Solution for Sustainable Tourism
