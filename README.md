@@ -15,10 +15,6 @@ The "Destination Dynamics" project utilizes a comprehensive dataset provided by 
   - Taj Mahal
   - Doge's Palace
   - Louvre Museum
-- **Metrics Included**:
-  - **Visitor Counts**: Quantitative insights into the number of visitors at each location at different times, essential for understanding and predicting crowd levels.
-  - **Average Age**: Demographic data providing the average age of visitors at each location, which helps in tailoring the tourist experience more effectively.
-
 ## ✨ Key Features of our project
 - **Predictive Powerhouse**: Harness the foresight of ARIMA models to anticipate visitor trends, making over-crowded surprises a thing of the past.
 - **Demographic Insights**: Utilize our sophisticated models to predict the average age of tourists, enabling tailored marketing strategies and enhanced visitor experiences by aligning services with demographic preferences.
