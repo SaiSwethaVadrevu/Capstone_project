@@ -38,6 +38,6 @@ The graph above illustrates the comparison between actual and predicted visitor 
 
 ![Visitor Trends](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/forecast.png?raw=true)
 
-🔍 **Age Trends Unfolded**: Delve into the dynamic age profiles across prominent tourist destinations throughout the day. This chart reveals how the average age of visitors varies at different times, providing insights that help us customize experiences for diverse age groups.
+🔍 **Age Trends Unfolded**: Delve into the dynamic age profiles across prominent tourist destinations throughout the day. This visualization reveals how the average age of visitors varies at different times, providing insights that help us customize experiences for diverse age groups.
 
 ![Demographic Insights](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/age%20demographics.png?raw=true)
