@@ -30,5 +30,6 @@ Each record in the dataset includes the following fields:
 
 ### Visual Insights
 Below are some visualizations derived from our dataset, showcasing patterns and insights:
+![Predictions]
 ![Visitor Trends](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/forecast.png?raw=true)
 ![Demographic Insights](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/age%20demographics.png?raw=true)
