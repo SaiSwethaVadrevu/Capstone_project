@@ -18,7 +18,7 @@ The "Destination Dynamics" project utilizes a comprehensive dataset provided by 
   - Doge's Palace
   - Louvre Museum
 ## ✨ Key Features of our project
-- **Predictive Powerhouse**: Harness the foresight of ARIMA models to anticipate visitor trends, making over-crowded surprises a thing of the past.
+- **Predictive Powerhouse**: Harness the foresight of ARIMA, deep learning models such as LSTM, GRU and ensemble techniques to anticipate visitor trends, making over-crowded surprises a thing of the past.
 - **Demographic Insights**: Utilize our sophisticated models to predict the average age of tourists, enabling tailored marketing strategies and enhanced visitor experiences by aligning services with demographic preferences.
 - **Price Dynamics**: Experience our dynamic pricing model that smartly adjusts costs, enticing visits during quieter times, enhancing peace without breaking the bank.
 
