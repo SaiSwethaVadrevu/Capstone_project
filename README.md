@@ -39,7 +39,7 @@ Each record in the dataset includes the following fields:
 - `Time`: The specific time of the observation on a 24-hour clock.
 - `Visitors in [Location]`: Numeric count of visitors at specified locations.
 - `Average Age - [Location]`: Average age of visitors, providing demographic insights.
-## ✨ What we aim to achieve
+## ✨ What we aim to achieve?
 - **Smart Crowds Management**: Using GRU, LSTM models and other advanced forecasting tools, we anticipate peak periods and manage visitor density, enhancing the overall experience while preserving site integrity.
 - **Demographic Insights**: Utilized our sophisticated models to predict the average age of tourists, enabling tailored marketing strategies and enhanced visitor experiences by aligning services with demographic preferences.
 - **Price Dynamics**: Experience our dynamic pricing model that smartly adjusts costs, enticing visits during quieter times, enhancing peace without breaking the bank.
