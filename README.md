@@ -49,10 +49,6 @@ Each record in the dataset includes the following fields:
 ### 📊 Visual Insights
 Below are some visualizations derived from our dataset, showcasing patterns and insights:
 
-![Predictions](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/predictedvsactual.png?raw=true)
-
-The graph above illustrates the comparison between actual and predicted visitor numbers for the Taj Mahal at 8 AM.
-
 🚀 **Take a Look Ahead**: Check out our latest forecast for the next 10 days in the 8 AM time slot at Taj Mahal:
 
 ![Visitor Trends](https://github.com/SaiSwethaVadrevu/Capstone_project/blob/main/images/forecast.png?raw=true)
