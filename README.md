@@ -2,6 +2,11 @@
 
 ![Project Header](https://pro.regiondo.com/wp-content/uploads/2019/12/Blog_image_Tourism_trends2.jpg)
 
+## Team Members
+- Karan Talati
+- Nithin Reddy Tummala
+- Sai Swetha Vadrevu
+
 ## 🌍 Project Overview
 Welcome to *Destination Dynamics*—Dive into a cutting-edge initiative that’s redefining travel for the modern age. Born from a pressing need to harmonize the irresistible allure of tourism with the pressing challenges of overtourism, our project employs advanced data science to forecast and regulate tourist flows, ensuring every journey is both unforgettable and sustainable.
 
